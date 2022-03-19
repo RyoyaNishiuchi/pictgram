@@ -4,4 +4,11 @@ class PagesController < ApplicationController
 
   def help
   end
+  
+  def link
+  end 
+  
+  def test
+  end
+
 end
